@@ -1,0 +1,6 @@
+{
+  "quoteDetails": {
+    "quoteContent":["quote1", "quote2", "quote3", "quote4", "quote5"],
+    "quoteAuthor":["James", "Me", "someone", "per4", "per5"]
+  }
+}

@@ -1,0 +1,36 @@
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.exe.config
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.exe
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.pdb
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.dll
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.xml
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csprojAssemblyReference.cache
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.Form1.resources
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.Properties.Resources.resources
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.GenerateResource.cache
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.CoreCompileInputs.cache
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.CopyComplete
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.exe
+C:\Users\GIRIOW\Desktop\MOBILEAPPS\14_03\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.pdb
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.exe.config
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.exe
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\quotesWF_03.pdb
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.dll
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.Abstractions.dll
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.dll
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.pdb
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\Newtonsoft.Json.xml
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.xml
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\bin\Debug\PCLStorage.Abstractions.xml
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csprojAssemblyReference.cache
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.Form1.resources
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.Properties.Resources.resources
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.GenerateResource.cache
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.CoreCompileInputs.cache
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.csproj.CopyComplete
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.exe
+G:\MobileApps\CURRENTLY WORKING ON\quotesWF_03\quotesWF_03\obj\Debug\quotesWF_03.pdb
